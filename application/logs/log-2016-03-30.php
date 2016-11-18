@@ -1,0 +1,12 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-03-30 05:43:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 05:43:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 05:43:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 05:43:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 05:43:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 05:43:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 10:39:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 10:39:09 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\webbinary\application\modules\sliders\views\index.php 19
+ERROR - 2016-03-30 10:39:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-30 10:39:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\webbinary\system\database\drivers\mysql\mysql_driver.php 91
