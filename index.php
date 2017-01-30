@@ -1,7 +1,7 @@
 <?php
 
 if (!ini_get('date.timezone')) {
-    date_default_timezone_set('GMT + 1');
+    date_default_timezone_set('GMT');
 }
 
 switch ($_SERVER['HTTP_HOST']) {
@@ -13,6 +13,7 @@ switch ($_SERVER['HTTP_HOST']) {
         $env = 'production';
         break;
 }
+
 define('ENVIRONMENT', $env);
 
 if (defined('ENVIRONMENT')) {
